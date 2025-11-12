@@ -1,8 +1,4 @@
 # Automated-Data-Cleaning-Google-Sheets-Integration
-Transform messy CSV data into clean, actionable insights in seconds; automatically synced to Google Sheets.
-
-
-# 🚀 Automated Data Cleaning & Google Sheets Integration
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -105,7 +101,7 @@ data-cleaning-automation/
 │       └── dirty_sales_data_cleaned.csv
 │
 ├── notebooks/
-│   └── data_analysis.ipynb         # Jupyter notebook for analysis
+│   └── data_analysis.py            # vs code for analysis
 │
 ├── docs/
 │   ├── setup_guide.md              # Setup instructions
@@ -330,10 +326,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- Portfolio: [yourportfolio.com](https://mayreeobi.github.io/)
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/chinyere-obi)
+- GitHub: [@yourusername](https://github.com/Mayreeob)
 
 ---
 
@@ -341,17 +336,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to the Pandas and NumPy teams for excellent data processing libraries
 - Google Sheets API for seamless cloud integration
-- Inspired by real-world data engineering challenges
+- Inspired by real-world data cleaning challenges
 
 ---
 
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/data-cleaning-automation?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/data-cleaning-automation?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/data-cleaning-automation?style=social)
-
----
 
 ## 💼 Use Cases
 
@@ -386,7 +374,7 @@ This project showcases:
 
 Made with ❤️ and Python
 
-[Report Bug](https://github.com/yourusername/data-cleaning-automation/issues) • [Request Feature](https://github.com/yourusername/data-cleaning-automation/issues)
+[Report Bug](https://github.com/Mayreeobi/data-cleaning-automation/issues) • [Request Feature](https://github.com/Mayreeobi/data-cleaning-automation/issues)
 
 </div>
 
