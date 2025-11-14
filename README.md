@@ -594,7 +594,7 @@ This project showcases:
 
 **Made with ❤️ and Python by Chinyere Obi**
 
-• [View Notebooks](notebooks/)
+• [View Notebooks](notebooks/https://github.com/Mayreeobi/Automated-Data-Cleaning-Google-Sheets-Integration/blob/main/Automated_Data_Cleaning.ipynb)
 
 ---
 
