@@ -593,7 +593,7 @@ Copyright (c) 2025 Chinyere Obi
 
 **Chinyere Obi**
 
-Data Analyst | Python Developer | Data Quality Enthusiast
+Data Analyst | Data Quality Enthusiast
 
 - 🌐 Portfolio: [mayreeobi.github.io](https://mayreeobi.github.io/)
 - 💼 LinkedIn: [chinyere-obi](https://www.linkedin.com/in/chinyere-obi)
@@ -651,10 +651,11 @@ This project showcases:
 
 ---
 
-**Quick Links**
+**Quick Link**
+
 [📓 View Notebook](https://github.com/Mayreeobi/Automated-Data-Cleaning-Google-Sheets-Integration/blob/main/Data_Cleaning_Complete.ipynb) 
 
----
+
 
 **📚 Resources**
 
