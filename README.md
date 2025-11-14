@@ -586,13 +586,14 @@ This project showcases:
 
 **Made with ❤️ and Python by Chinyere Obi**
 
-• [View Notebooks](notebooks/https://github.com/Mayreeobi/Automated-Data-Cleaning-Google-Sheets-Integration/blob/main/Automated_Data_Cleaning.ipynb)
+• [View Notebooks](https://github.com/Mayreeobi/Automated-Data-Cleaning-Google-Sheets-Integration/blob/main/Automated_Data_Cleaning.ipynb)
+https://github.com/Mayreeobi/Automated-Data-Cleaning-Google-Sheets-Integration/blob/main/Automated_Data_Cleaning.ipynb
 
 ---
 
 **📚 Learning Resources**
 
-[Pandas Documentation](https://pandas.pydata.org/docs/) • [Google Sheets API Docs](https://developers.google.com/sheets/api) • [Data Cleaning Guide](docs/CLEANING_GUIDE.md)
+[Pandas Documentation](https://pandas.pydata.org/docs/) • [Google Sheets API Docs](https://developers.google.com/sheets/api)
 
 </div>
 
