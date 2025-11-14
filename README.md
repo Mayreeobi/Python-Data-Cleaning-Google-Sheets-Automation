@@ -400,7 +400,6 @@ upload_to_gsheet("Cleaned_Transactions", cleaned_transactions)
 ```
 
 
-
 ---
 
 ## 📊 Performance Metrics
@@ -502,9 +501,6 @@ Solution:
 2. Copy the client_email
 3. Share your Google Sheet with this email (Editor access)
 ```
-
-
-For more issues, see [Troubleshooting Guide](docs/TROUBLESHOOTING.md)
 
 
 ---
