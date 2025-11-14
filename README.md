@@ -295,7 +295,6 @@ google-auth>=2.16.0
 ```
 
 #### 3. Set Up Google Sheets API
-Follow the [detailed API setup guide](docs/API_SETUP.md):
 1. Go to [Google Cloud Console](https://console.cloud.google.com)
 2. Enable Google Sheets API & Google Drive API
 3. Create service account
@@ -472,13 +471,6 @@ Each cleaning pipeline includes these validation steps:
 - Google Sheets integration
 - Perfect for beginners
 
-
-### Guides
-- [Complete Setup Guide](docs/SETUP_GUIDE.md)
-- [Google API Configuration](docs/API_SETUP.md)
-- [Data Cleaning Best Practices](docs/CLEANING_GUIDE.md)
-- [Troubleshooting Common Issues](docs/TROUBLESHOOTING.md)
-
 ---
 
 ## 🐛 Troubleshooting
@@ -518,7 +510,7 @@ For more issues, see [Troubleshooting Guide](docs/TROUBLESHOOTING.md)
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ```
 MIT License © 2025 — Chinyere Obi
