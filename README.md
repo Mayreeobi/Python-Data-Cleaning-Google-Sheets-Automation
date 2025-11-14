@@ -31,10 +31,10 @@ An intelligent Python pipeline that:
 - ✅ Scalable to 100K+ rows
 
 ### Impact
-- ⚡ **99.97% time reduction** in data processing
-- 🎯 **100% consistency** across all datasets
-- 📈 **1,429 duplicates removed** from transactions
-- 💰 **ROI: 3h 59m 55s saved** per execution
+-  **99.97% time reduction** in data processing
+-  **100% consistency** across all datasets
+-  **1,429 duplicates removed** from transactions
+-  **ROI: 3h 59m 55s saved** per execution
 
 ---
 
@@ -147,12 +147,12 @@ SaaS transaction data with severe quality issues:
 - 🔐 Secure service account authentication
 
 ### 📈 Detailed Reporting
-- 📊 Before/after comparison
-- 📉 Missing value analysis
-- 🎯 Data quality scorecard
-- 📋 Detailed cleaning logs
-- ⏱️ Processing time metrics
-- 💾 Automatic CSV backup
+-  Before/after comparison
+-  Missing value analysis
+-  Data quality scorecard
+-  Detailed cleaning logs
+-  Processing time metrics
+-  Automatic CSV backup
 
 ---
 
@@ -199,28 +199,29 @@ SaaS transaction data with severe quality issues:
 - ✅ Categorical value standardization
 
 ### ☁️ Google Sheets Integration
-- 📤 Real-time upload to Google Sheets
-- 🆕 Auto-create sheets if they don't exist
-- 🔄 Update existing sheets with latest data
-- 🔗 Generate shareable links
-- 📊 Preserve data types and formatting
+-  Real-time upload to Google Sheets
+-  Auto-create sheets if they don't exist
+-  Update existing sheets with latest data
+-  Generate shareable links
+-  Preserve data types and formatting
 
 ### 📈 Advanced Reporting
-- 📊 Before/after comparison dashboard
-- 📉 Missing value heatmaps
-- 🎯 Data quality scorecards
-- 📋 Detailed cleaning logs
-- ⏱️ Processing time metrics
-- 💾 Automatic backup of original data
+-  Before/after comparison dashboard
+-  Missing value heatmaps
+-  Data quality scorecards
+-  Detailed cleaning logs
+-  Processing time metrics
+-  Automatic backup of original data
 
 ---
 
 ## 🎥 Demo
 
+**Before:** Messy data with duplicates, missing values, inconsistent formats  
 ![Data Cleaning Demo](https://via.placeholder.com/800x400/4A90E2/FFFFFF?text=Demo+GIF+Here)
 
-**Before:** Messy data with duplicates, missing values, inconsistent formats  
 **After:** Clean, standardized data ready for analysis
+![Data Cleaning Demo](https://via.placeholder.com/800x400/4A90E2/FFFFFF?text=Demo+GIF+Here)
 
 [📺 Watch Full Video Demo](#) • [🔗 Live Google Sheet Example](#)
 
