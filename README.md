@@ -48,16 +48,20 @@ Real SaaS customer data with typical quality issues:
 | Column | Data Quality Issues |
 |--------|-------------------|
 | **customer_id** | 15 duplicate IDs |
+| **full_name** | Inconsistent capitalization, whitespace, nulls |
 | **email** | Mixed case, invalid formats, missing @ symbols |
-| **phone_number** | 7+ different formats, missing values |
-| **first_name/last_name** | Inconsistent capitalization, whitespace, nulls |
-| **date_of_birth** | Multiple date formats (YYYY-MM-DD, MM/DD/YYYY, DD.MM.YYYY) |
-| **registration_date** | Mixed formats, some future dates |
-| **age** | Negative values, text ("25 years"), inconsistent with DOB |
-| **gender** | 15+ variations (M, Male, MALE, male, 1, etc.) |
-| **country/city** | Inconsistent naming (USA, US, United States) |
-| **income** | Currency symbols ($, ₦, €), commas, 'k' notation |
-| **subscription_status** | Typos, inconsistent capitalization |
+| **country** |  Typos, Inconsistent naming (USA, US, Inda) |
+| **signup_date** | Multiple date formats (YYYY-MM-DD, MM/DD/YYYY, DD.MM.YYYY) |
+| **subscription_plan** | Inconsistent capitalization |
+| **plan_price** | Currency symbols ($, ₦, €), commas, 'k' notation |
+| **payment_method** | Mixed case |
+| **is_trial** | 4+ variations (Y, True, False, No, 1, etc.) and nulls |
+| **renewal_date** | Mixed format |
+| **churn_flag** | 4+ variations (Y, True, False, No, 1, etc.) and nulls |
+| **total_logins ** | Currency symbols ($, ₦, €), commas, 'k' notation |
+| **last_login_date** | Mixed formats |
+| **lifetime_value** | Currency symbols ($), commas |
+| **customer_feedback** | Whitespaces |
 
 **Key Metrics:**
 - ✅ 15 duplicates removed
@@ -71,16 +75,15 @@ SaaS transaction data with severe quality issues:
 | Column | Data Quality Issues |
 |--------|-------------------|
 | **transaction_id** | 1,429 duplicates, 77 invalid IDs |
-| **customer_id** | Missing references, orphaned records |
-| **product_name** | Inconsistent naming, special characters |
-| **product_category** | Mixed case, whitespace, variations |
-| **quantity** | Negative values, zeros, text ("5 items") |
-| **unit_price** | Currency symbols, negative prices |
-| **total_amount** | Doesn't match quantity × unit_price |
-| **discount_percent** | Over 100%, negative values, missing % |
-| **payment_method** | 10+ variations of same method |
-| **transaction_date** | Multiple formats, future dates, invalid dates |
-| **status** | Typos ("Succes", "Compete"), inconsistent case |
+| **customer_id** | Missing references |
+| **transaction_date** | Multiple formats, invalid dates, nulls |
+| **amount_paid** | Currency symbols, negative prices |
+| **payment_status** | 2+ variations of same method (failed, 0, success, paid) |
+| **payment_channel** | Inconsistent case|
+| **refund_flag** | 4+ variations (Y, True, False, No, 1, etc.) and nulls |
+| **invoice_number** | Mixed case, whitespace |
+| **discount_code** | Mixed cases, nulls, whitespaces |
+| **support_ticket_id** | Nulls, Inconsistent capitalization (TKT) |
 
 **Key Metrics:**
 - ✅ 1,429 duplicates removed
