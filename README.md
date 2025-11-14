@@ -218,12 +218,10 @@ SaaS transaction data with severe quality issues:
 ## 🎥 Demo
 
 **Before:** Messy data with duplicates, missing values, inconsistent formats  
-![Data Cleaning Demo](https://via.placeholder.com/800x400/4A90E2/FFFFFF?text=Demo+GIF+Here)
+[Messy Customers Png](https://github.com/Mayreeobi/Automated-Data-Cleaning-Google-Sheets-Integration/blob/main/messy_customer_data.png) • [Messy Transactions Png](https://github.com/Mayreeobi/Automated-Data-Cleaning-Google-Sheets-Integration/blob/main/messy_transaction.png)
 
 **After:** Clean, standardized data ready for analysis
-![Data Cleaning Demo](https://via.placeholder.com/800x400/4A90E2/FFFFFF?text=Demo+GIF+Here)
-
-[📺 Watch Full Video Demo](#) • [🔗 Live Google Sheet Example](#)
+[Cleaned Customers Png]() • [Cleaned Transactions Png]()
 
 ---
 
