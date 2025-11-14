@@ -234,8 +234,8 @@ SaaS transaction data with severe quality issues:
 |----------|-------------|
 | **Language** | Python 3.8+ |
 | **Environment** | Jupyter Notebook, VS Code |
-| **Data Processing** | Pandas 2.0+, NumPy 1.23+ |
-| **Data Generation** | Faker 18.0+ |
+| **Data Processing** | Pandas , NumPy  |
+| **Data Generation** | Faker |
 | **Cloud Integration** | gspread, google-auth |
 | **Validation** | regex |
 
