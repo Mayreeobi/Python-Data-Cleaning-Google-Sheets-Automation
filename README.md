@@ -218,7 +218,7 @@ After:  Tkt-001, Tkt-002, Tkt-003
 ---
 
 ## 🎥 Demo Results
-### [Python Code](https://github.com/Mayreeobi/Automated-Data-Cleaning-Google-Sheets-Integration/blob/main/Data_Cleaning_Complete.ipynb)
+#### [Python Code](https://github.com/Mayreeobi/Automated-Data-Cleaning-Google-Sheets-Integration/blob/main/Data_Cleaning_Complete.ipynb)
 
 **Before:** Messy data with duplicates, missing values, inconsistent formats  
 [Messy Customers Png](https://github.com/Mayreeobi/Automated-Data-Cleaning-Google-Sheets-Integration/blob/main/messy_customer_data.png) • [Messy Transactions Png](https://github.com/Mayreeobi/Automated-Data-Cleaning-Google-Sheets-Integration/blob/main/messy_transaction.png)
@@ -354,8 +354,6 @@ ipykernel>=6.0.0
 ```
 
 #### 4. Set Up Google Sheets API
-
-**Detailed guide:** [API_SETUP.md](docs/API_SETUP.md)
 
 Quick steps:
 1. Go to [Google Cloud Console](https://console.cloud.google.com)
@@ -557,13 +555,6 @@ python -m ipykernel install --user --name=cleaning-env
 
 ## 📚 Documentation
 
-### Available Guides
-
-- **[SETUP_GUIDE.md](docs/SETUP_GUIDE.md)** - Complete installation walkthrough
-- **[API_SETUP.md](docs/API_SETUP.md)** - Google Sheets API configuration (with screenshots)
-- **[CLEANING_GUIDE.md](docs/CLEANING_GUIDE.md)** - Data cleaning methodology and best practices
-- **[TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md)** - Common issues and solutions
-
 ### Code Documentation
 
 The main notebook (`Data_Cleaning_Complete.ipynb`) includes:
@@ -586,8 +577,6 @@ Contributions are welcome! Here's how:
 5. Commit: `git commit -m 'Add amazing feature'`
 6. Push: `git push origin feature/amazing-feature`
 7. Open a Pull Request
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for code of conduct and standards.
 
 ---
 
@@ -663,7 +652,7 @@ This project showcases:
 ---
 
 **Quick Links**
-[📓 View Notebook](https://github.com/Mayreeobi/Automated-Data-Cleaning-Google-Sheets-Integration/blob/main/Data_Cleaning_Complete.ipynb) • [🐛 Report Bug](https://github.com/Mayreeobi/python-cleaning-gsheet/issues) • [💡 Request Feature](https://github.com/Mayreeobi/python-cleaning-gsheet/issues) • [📚 Documentation](docs/)
+[📓 View Notebook](https://github.com/Mayreeobi/Automated-Data-Cleaning-Google-Sheets-Integration/blob/main/Data_Cleaning_Complete.ipynb) 
 
 ---
 
