@@ -218,6 +218,7 @@ After:  Tkt-001, Tkt-002, Tkt-003
 ---
 
 ## 🎥 Demo Results
+### [Python Code](https://github.com/Mayreeobi/Automated-Data-Cleaning-Google-Sheets-Integration/blob/main/Data_Cleaning_Complete.ipynb)
 
 **Before:** Messy data with duplicates, missing values, inconsistent formats  
 [Messy Customers Png](https://github.com/Mayreeobi/Automated-Data-Cleaning-Google-Sheets-Integration/blob/main/messy_customer_data.png) • [Messy Transactions Png](https://github.com/Mayreeobi/Automated-Data-Cleaning-Google-Sheets-Integration/blob/main/messy_transaction.png)
@@ -662,8 +663,7 @@ This project showcases:
 ---
 
 **Quick Links**
-[View Notebooks](https://github.com/Mayreeobi/Automated-Data-Cleaning-Google-Sheets-Integration/blob/main/Automated_Data_Cleaning.ipynb)
-[📓 View Notebook](notebooks/Data_Cleaning_Complete.ipynb) • [🐛 Report Bug](https://github.com/Mayreeobi/python-cleaning-gsheet/issues) • [💡 Request Feature](https://github.com/Mayreeobi/python-cleaning-gsheet/issues) • [📚 Documentation](docs/)
+[📓 View Notebook](https://github.com/Mayreeobi/Automated-Data-Cleaning-Google-Sheets-Integration/blob/main/Data_Cleaning_Complete.ipynb) • [🐛 Report Bug](https://github.com/Mayreeobi/python-cleaning-gsheet/issues) • [💡 Request Feature](https://github.com/Mayreeobi/python-cleaning-gsheet/issues) • [📚 Documentation](docs/)
 
 ---
 
