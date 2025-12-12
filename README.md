@@ -224,7 +224,7 @@ After:  Tkt-001, Tkt-002, Tkt-003
 [Messy Customers Png](https://github.com/Mayreeobi/Automated-Data-Cleaning-Google-Sheets-Integration/blob/main/messy_customer_data.png) • [Messy Transactions Png](https://github.com/Mayreeobi/Automated-Data-Cleaning-Google-Sheets-Integration/blob/main/messy_transaction.png)
 
 **After:** Clean, standardized data ready for analysis
-[Cleaned Customers Png]() • [Cleaned Transactions Png]()
+[Before & After Png](https://github.com/Mayreeobi/Python-Data-Cleaning-Google-Sheets-Automation/blob/main/before_after.png)
 
 ### Cleaning Pipeline Output
 
